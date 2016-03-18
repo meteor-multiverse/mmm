@@ -142,6 +142,7 @@ The IAM Policy Permissions necessary to create and destroy Stacks.
         "ec2:ReplaceNetworkAclAssociation",
         "ec2:AllocateAddress",
         "ec2:ReleaseAddress",
+        "ec2:*NatGateway",
         "ec2:*SecurityGroup",
         "ec2:*SecurityGroupEgress",
         "ec2:*SecurityGroupIngress",

@@ -11,7 +11,7 @@ Meteor Multiverse Manager (a.k.a. `mmm`) is a custom CLI for working with [Meteo
      - access to the following services:
          - IAM: Identity & Access Management
          - EC2: Elastic Compute Cloud
-         - VPC: Virtual Private Cloud
+         - VPC: Virtual Private Cloud _(technically part of EC2)_
          - OpsWorks
          - Route53
      - at least 1 HostedZone (domain) available in Route53 for sub-domaining

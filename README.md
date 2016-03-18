@@ -294,5 +294,5 @@ The IAM Policy Permissions necessary to view existing Stacks.
 
 <!--- RESOURCE LINKS -->
 
-[Meteor Multiverse]: http://meteormultiverse.org/
+[Meteor Multiverse]: http://meteor-multiverse.github.io/
 [AWS OpsWorks]: http://aws.amazon.com/opsworks/
